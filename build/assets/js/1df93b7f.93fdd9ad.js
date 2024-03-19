@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgpupdate_docs=self.webpackChunkgpupdate_docs||[]).push([[4583],{6866:(a,e,d)=>{d.r(e),d.d(e,{default:()=>u});d(6540);var s=d(6347),c=d(4848);function u(){return(0,c.jsx)(s.rd,{to:"/docs/gpoa/backend/samba_backend"})}}}]);
