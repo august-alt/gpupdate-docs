@@ -21,13 +21,15 @@
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "ws": ">=8.17.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.1.1",
     "@docusaurus/tsconfig": "3.1.1",
     "@docusaurus/types": "3.1.1",
-    "typescript": "~5.2.2"
+    "typescript": "~5.2.2",
+    "ws": ">=8.17.1"
   },
   "browserslist": {
     "production": [
